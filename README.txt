@@ -1,0 +1,1 @@
+before running the programe creat a database in mysql which stores serial number and songs.
